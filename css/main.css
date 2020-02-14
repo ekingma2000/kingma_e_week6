@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+img{
+  width: 200px;
+}
+
+
+div {display:inline-block; margin: 8px;}
+
+.controller {
+  display: block;
+}
